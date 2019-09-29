@@ -1,0 +1,29 @@
+@article{wase2019remodeling,
+  title={Remodeling of Chlamydomonas metabolism using synthetic inducers results in lipid storage during growth},
+  author={Wase, Nishikant and Tu, Boqiang and Rasineni, Girish Kumar and Cerny, Ron and Grove, Ryan and Adamec, Jiri and Black, Paul N and DiRusso, Concetta C},
+  journal={Plant physiology},
+  pages={pp--00758},
+  year={2019},
+  publisher={Am Soc Plant Biol}
+}
+
+@article{wase2015phenotypic,
+  title={Phenotypic screening identifies Brefeldin A/Ascotoxin as an inducer of lipid storage in the algae Chlamydomonas reinhardtii},
+  author={Wase, Nishikant and Tu, Boqiang and Black, Paul N and DiRusso, Concetta C},
+  journal={Algal research},
+  volume={11},
+  pages={74--84},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{wase2017identification,
+  title={Identification and metabolite profiling of chemical activators of lipid accumulation in green algae},
+  author={Wase, Nishikant and Tu, Boqiang and Allen, James W and Black, Paul N and DiRusso, Concetta C},
+  journal={Plant physiology},
+  volume={174},
+  number={4},
+  pages={2146--2165},
+  year={2017},
+  publisher={Am Soc Plant Biol}
+}
