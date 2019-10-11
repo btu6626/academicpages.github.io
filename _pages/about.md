@@ -20,12 +20,15 @@ My primary research interests focus on .....
 Interest 1
 ------
 Here is research interest 1.
+
 Interest 2
 ------
 Here is research interest 2
+
 Interest 
 ------
 Here is research interest 1.
+
 **Microfluidics**
 
 
