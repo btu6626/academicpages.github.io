@@ -35,7 +35,7 @@ Transcriptional response of Chlamydomonas reinhardtii to small lipid-inducing mo
 Project 2
 ------
 High-throughput phenotypic screens for lipid-inducing small molecules in green algae
-* Performed high-throughput screens using automated liquid handling system and optimized protocols\smallskip
+* Performed high-throughput screens using automated liquid handling system and optimized protocols
 
 Project 3
 ------
