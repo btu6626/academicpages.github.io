@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+[Download CV here](../files/Tu_B_CV_2019.pdf)
 Education
 ======
 * B.S. in Biochemistry, University of Nebraska--Lincoln, 2015
