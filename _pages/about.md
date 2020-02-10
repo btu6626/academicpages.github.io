@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently applying to graduate programs in biologial and biomedical sciences and engineering. This website contains information about my academic background, research interest, past research experience and personal stories. Links to various academic / social media websites are on the left side panel.
+I am currently applying to graduate programs in computational and systems biology / bioengineering. This website contains information about my academic background, research interest, past research experience and personal stories. Links to various academic / social media websites are on the left side panel.
 
 Academic Background
 ======
